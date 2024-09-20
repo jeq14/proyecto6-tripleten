@@ -10,4 +10,4 @@ Proyecto 6 tripleten Esta sera un proyecto el cual se subira a la nube , que ten
 
 5)Despliegue y Configuración de Render: Se configuró Streamlit para su despliegue en Render añadiendo un archivo de configuración (streamlit/config.toml) y se actualizaron los archivos del proyecto en el repositorio de GitHub para reflejar los cambios en la aplicación web.
 
-https://proyect-6-trip-5.onrender.com/
+https://proyecto6-tripleten-b5dj.onrender.com
