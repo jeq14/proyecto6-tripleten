@@ -1,4 +1,4 @@
-# proyecto6-tripleten
+# proyecto6-TRIPLETEN
 
 Proyecto 6 tripleten Esta sera un proyecto el cual se subira a la nube , que tendra varios aspectos importantes sobre el analisis de datos , el cual el usuario podra interactuar con la pagina web. Los pasos fueron los siguientes: 1)Configuración Inicial: Se creó un nuevo repositorio en GitHub y se configuró un entorno virtual llamado vehicles_env. Los paquetes necesarios (pandas, plotly-express, y streamlit) fueron instalados y añadidos a un archivo requirements.txt.
 
